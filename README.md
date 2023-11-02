@@ -1,4 +1,4 @@
-# Halo2 Examples
+# Arithmetic Circuits with Halo2
 
 This repo includes a few simple examples to illustrate how to write circuit in Halo2.
 
